@@ -2,6 +2,7 @@
 title: About
 permalink: "/about.html"
 image: "/assets/images/applause.jpg"
+published: false
 
 ---
 Hello, welcome to the daily binge.
