@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: About
 permalink: "/about.html"
-image: "/assets/images/screenshot.jpg"
----
+image: "/assets/images/applause.jpg"
 
+---
 Hi, guys! The website you are previewing is a demonstration for Mundana Jekyll theme, hosted on Github pages. 
 
 - 100% Github Pages Compatibility
