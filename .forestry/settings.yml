@@ -5,8 +5,9 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: index.html
-  label: Index
+  path: _config.yml
+  label: config
+  match: "**/*"
 - type: document
   path: _posts
   label: Document
