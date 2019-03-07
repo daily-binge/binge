@@ -14,6 +14,8 @@ image: ''
 ---
 The good wife was often favourably compared to Mad Men, with Alicia Florrick being a complex and layered counterpart to Don Draper. I tend to concur. Sequels don't usually turn out well in entertainment ether, save a few. The good fight falls neatly into the latter camp. This one's a whole new animal, and that is evident right from the start. The majestic title sequence, where random work stuff get blown into pieces, captures the ethos of the show perfectly. The good fight is here to shake things up, and often does so violently.
 
+So many genres - comedy (consistently funny), drama, crime.
+
 Brave is the first word that comes to mind when discussing the good fight. There are few shows as brave as the good fight. This is a show that isn't afraid of pissing off whole sections of society. Unabashed in its criticism of the Trump administration. Stands head and shoulders above the rest of the fare currently airing on television.
 
 Quotes like - when you're a detective you can do anything, grab them by the pussy, and 'New York's a swamp and I'm cleaning it up, and Trump holding a potbellied pig in the white house.
