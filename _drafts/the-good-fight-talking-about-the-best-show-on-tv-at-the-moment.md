@@ -22,4 +22,4 @@ Featuring a cast comprising mainly of minorities, in a majority black law firm
 
 A more grown-up version of the good wife. Adrian Boseman saying - 'this is fucked', the brilliant Christine Baranski's Diane Lockhart becomes unhinged and gets high on mushrooms. Realistic banter between the CDC guy and Marissa Gold.
 
-my personal favorite is the guy who goes around serving subpoenas.
+my personal favorite, however, is the guy who goes around serving subpoenas.
