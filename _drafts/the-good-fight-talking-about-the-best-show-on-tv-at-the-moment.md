@@ -20,6 +20,8 @@ Quotes like - when you're a detective you can do anything, grab them by the puss
 
 Featuring a cast comprising mainly of minorities, in a majority black law firm
 
-A more grown-up version of the good wife. Adrian Boseman saying - 'this is fucked', the brilliant Christine Baranski's Diane Lockhart becomes unhinged and gets high on mushrooms. Realistic banter between the CDC guy and Marissa Gold.
+Colour palette, camerawork and excellent production values that reminds me of a David Fincher movie
+
+A more grown-up version of the good wife. Adrian Boseman saying - 'this is fucked', the brilliant Christine Baranski's Diane Lockhart is bonkers, becomes unhinged and gets high on mushrooms. Realistic banter between the CDC guy and Marissa Gold.
 
 my personal favorite, however, is the guy who goes around serving subpoenas.
